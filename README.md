@@ -7,5 +7,5 @@ pipenv install
 
 cd pollster
 
-# Serve on localhost:8000
+# Serve on localhost:3000
 python manage.py runserver
